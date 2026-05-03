@@ -1,0 +1,62 @@
+RouteID,OriginCity,DestinationCity,Distance_km,RoadType,SLA_Days
+RT001,Delhi,Chandigarh,128,Highway,2
+RT002,Delhi,Lucknow,233,Highway,2
+RT003,Delhi,Jaipur,372,Highway,3
+RT004,Delhi,Agra,147,Highway,2
+RT005,Delhi,Bangalore,449,Mixed,3
+RT006,Delhi,Chennai,2035,Highway,5
+RT007,Delhi,Hyderabad,1625,State Road,5
+RT008,Delhi,Kochi,1314,Mixed,5
+RT009,Delhi,Coimbatore,1392,Highway,5
+RT010,Delhi,Kolkata,980,Highway,4
+RT011,Delhi,Bhubaneswar,882,State Road,4
+RT012,Delhi,Patna,1072,Highway,4
+RT013,Delhi,Guwahati,1061,Highway,4
+RT014,Delhi,Ranchi,2078,Highway,5
+RT015,Delhi,Mumbai,1878,Mixed,5
+RT016,Delhi,Pune,1049,Highway,4
+RT017,Delhi,Ahmedabad,1500,Mixed,5
+RT018,Delhi,Surat,1677,Highway,5
+RT019,Delhi,Nagpur,1743,Highway,5
+RT020,Delhi,Bhopal,2020,Mixed,5
+RT021,Delhi,Indore,1977,Highway,5
+RT022,Delhi,Raipur,1590,Mixed,5
+RT023,Delhi,Jabalpur,858,State Road,4
+RT024,Delhi,Gwalior,1099,State Road,4
+RT025,Chandigarh,Lucknow,147,Highway,2
+RT026,Chandigarh,Jaipur,297,Highway,2
+RT027,Chandigarh,Agra,181,Highway,2
+RT028,Chandigarh,Bangalore,953,State Road,4
+RT029,Chandigarh,Chennai,1020,Highway,4
+RT030,Chandigarh,Hyderabad,1143,Mixed,4
+RT031,Chandigarh,Kochi,2099,Highway,5
+RT032,Chandigarh,Coimbatore,1047,Highway,4
+RT033,Chandigarh,Kolkata,1493,Highway,5
+RT034,Chandigarh,Bhubaneswar,1107,Highway,4
+RT035,Chandigarh,Patna,1227,Highway,5
+RT036,Chandigarh,Guwahati,916,Highway,4
+RT037,Chandigarh,Ranchi,559,Mixed,3
+RT038,Chandigarh,Mumbai,1653,Mixed,5
+RT039,Chandigarh,Pune,466,Mixed,3
+RT040,Chandigarh,Ahmedabad,780,Highway,4
+RT041,Chandigarh,Surat,741,Mixed,4
+RT042,Chandigarh,Nagpur,1126,Highway,4
+RT043,Chandigarh,Bhopal,1013,Mixed,4
+RT044,Chandigarh,Indore,753,Highway,4
+RT045,Chandigarh,Raipur,515,Highway,3
+RT046,Chandigarh,Jabalpur,1865,State Road,5
+RT047,Chandigarh,Gwalior,1900,Mixed,5
+RT048,Lucknow,Jaipur,390,Highway,3
+RT049,Lucknow,Agra,287,Highway,2
+RT050,Lucknow,Bangalore,1017,Highway,4
+RT051,Lucknow,Chennai,1032,State Road,4
+RT052,Lucknow,Hyderabad,1435,Highway,5
+RT053,Lucknow,Kochi,2071,Mixed,5
+RT054,Lucknow,Coimbatore,2079,Highway,5
+RT055,Lucknow,Kolkata,1702,Highway,5
+RT056,Lucknow,Bhubaneswar,1527,Highway,5
+RT057,Lucknow,Patna,1671,Mixed,5
+RT058,Lucknow,Guwahati,2056,Mixed,5
+RT059,Lucknow,Ranchi,1507,Mixed,5
+RT060,Lucknow,Mumbai,1377,Mixed,5
+RT061,Lucknow,Pune,1199,Highway,4

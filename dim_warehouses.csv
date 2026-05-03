@@ -1,0 +1,16 @@
+WarehouseID,WarehouseCity,WarehouseRegion,StorageCapacity_units,WarehouseStatus,DispatchEfficiencyScore
+WH001,Delhi,North,5000,Operational,92
+WH002,Jaipur,North,3000,Operational,78
+WH003,Lucknow,North,2500,Operational,85
+WH004,Mumbai,West,6000,Operational,88
+WH005,Pune,West,3500,Operational,82
+WH006,Ahmedabad,West,2800,Operational,74
+WH007,Bangalore,South,5500,Operational,91
+WH008,Chennai,South,4000,Operational,83
+WH009,Hyderabad,South,3200,Under Maintenance,55
+WH010,Kolkata,East,4500,Operational,87
+WH011,Bhubaneswar,East,2000,Operational,76
+WH012,Patna,East,1800,Operational,69
+WH013,Bhopal,Central,3000,Operational,80
+WH014,Indore,Central,2500,Operational,77
+WH015,Raipur,Central,1500,Operational,63

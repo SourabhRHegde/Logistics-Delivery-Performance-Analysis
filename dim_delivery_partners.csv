@@ -1,0 +1,9 @@
+PartnerID,PartnerName,CoverageType,OnTimeDeliveryRate_pct,CustomerRating,YearEstablished,ServiceTier
+DP001,BlueDart Express,Pan-India,96,4.7,2005,Premium
+DP002,Delhivery,Pan-India,89,4.2,2011,Standard
+DP003,Ekart Logistics,Pan-India,84,3.9,2009,Standard
+DP004,XpressBees,Pan-India,81,3.7,2015,Economy
+DP005,Shadowfax,Metro Only,78,3.5,2015,Economy
+DP006,Ecom Express,Pan-India,86,4,2012,Standard
+DP007,Dunzo Logistics,Metro Only,72,3.2,2018,Economy
+DP008,SpeedPost Courier,Pan-India,68,3,1990,Economy
